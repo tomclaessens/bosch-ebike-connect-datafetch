@@ -1,0 +1,10 @@
+{
+    "BOSCH_EBIKE_CONNECT_PORTAL": {
+        "login_url": "https://www.ebike-connect.com/ebikeconnect/api/portal/login/public",
+        "statistics_url": "https://www.ebike-connect.com/ebikeconnect/api/portal/statistics/box"
+    },
+    "BOSCH_EBIKE_CONNECT_CREDENTIALS": {
+        "username": "user@example.com",
+        "password": "userExamplePassword!"
+    }
+}
